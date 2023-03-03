@@ -9,7 +9,7 @@ public class TablaDeSimbolos {
 	public static void main(String[] args) {
 		leerArchivo.Archivo();
 		
-		ImprimirTabla.imprimir();
+		//ImprimirTabla.imprimir();
 	}
 
 }
